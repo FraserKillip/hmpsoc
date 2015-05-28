@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
 Main-Class: HMPSoC
-Class-Path: commons-cli-1.3.jar jdom.jar
+Class-Path: commons-cli-1.3.jar jdom.jar gson-2.3.1.jar
